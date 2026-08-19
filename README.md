@@ -26,11 +26,11 @@ Je me spécialise aujourd'hui dans l'**analyse de données**, l'**automatisation
 <div align="center">
 
 💻 **Développement logiciel**
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp; → 
 📊 **Analyse de données**
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp; → 
 ⚙️ **Automatisation Excel / VBA**
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp; → 
 🎓 **Formation & accompagnement**
 
 </div>
@@ -77,7 +77,7 @@ Formules & fonctions
 TCD & analyse
 &nbsp;&nbsp;&nbsp;&nbsp;→ 
 Dashboards
-&nbsp;&nbsp;&nbsp;&nbsp→ 
+&nbsp;&nbsp;&nbsp;&nbsp;→ 
 VBA & automatisation
 
 </div>
