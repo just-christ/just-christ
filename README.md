@@ -26,11 +26,11 @@ Je me spécialise aujourd'hui dans l'**analyse de données**, l'**automatisation
 <div align="center">
 
 💻 **Développement logiciel**
-&nbsp;&nbsp;&nbsp;&nbsp; → 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 📊 **Analyse de données**
-&nbsp;&nbsp;&nbsp;&nbsp; → 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 ⚙️ **Automatisation Excel / VBA**
-&nbsp;&nbsp;&nbsp;&nbsp; → 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 🎓 **Formation & accompagnement**
 
 </div>
@@ -71,13 +71,13 @@ J'aide étudiants, professionnels et entreprises à mieux exploiter leurs donné
 <div align="center">
 
 Excel débutant → avancé
-&nbsp;&nbsp;&nbsp;&nbsp;→ 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 Formules & fonctions
-&nbsp;&nbsp;&nbsp;&nbsp;→ 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 TCD & analyse
-&nbsp;&nbsp;&nbsp;&nbsp;→ 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 Dashboards
-&nbsp;&nbsp;&nbsp;&nbsp;→ 
+&nbsp;&nbsp;&nbsp;&nbsp;↓
 VBA & automatisation
 
 </div>
@@ -88,8 +88,8 @@ VBA & automatisation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=just-christ&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-christ&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=just-christ&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=just-christ&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
