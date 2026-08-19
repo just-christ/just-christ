@@ -71,13 +71,13 @@ J'aide étudiants, professionnels et entreprises à mieux exploiter leurs donné
 <div align="center">
 
 Excel débutant → avancé
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp;→ 
 Formules & fonctions
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp;→ 
 TCD & analyse
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp;→ 
 Dashboards
-&nbsp;&nbsp;&nbsp;&nbsp;↓
+&nbsp;&nbsp;&nbsp;&nbsp→ 
 VBA & automatisation
 
 </div>
